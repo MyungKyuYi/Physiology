@@ -38,5 +38,6 @@ https://chatgpt.com/s/t_6a8fa19ccb3c8191b3f3563a81d833ac
 https://chatgpt.com/s/t_6a8fa1a61c2c8191acd98bd934926761
 https://chatgpt.com/s/t_6a8fa1aeb6108191bdd7f5b67e8fdb14
 
-
+# slow oscillation 
+https://chatgpt.com/s/t_6a8ff33123e881919d16e4794338ac07
 
