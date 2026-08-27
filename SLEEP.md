@@ -40,4 +40,5 @@ https://chatgpt.com/s/t_6a8fa1aeb6108191bdd7f5b67e8fdb14
 
 # slow oscillation 
 https://chatgpt.com/s/t_6a8ff33123e881919d16e4794338ac07
+https://chatgpt.com/s/t_6a8ff3bafcfc81918b90cfc8a6350f83
 
