@@ -27,4 +27,13 @@ https://chatgpt.com/s/t_6a49aca9cfdc8191aa0988989ee59f1e
 
 # K-complex, delta burst, EEG arousal
 https://chatgpt.com/s/t_6a49c3b33ca081919fbdb9c0a63c3b36
+https://chatgpt.com/s/t_6a8fa1cd61288191ab5e99235c673d1e
+
+# 신경계 컨트롤 타워 설명
+https://chatgpt.com/s/t_6a8fa1823d3c8191a61cf614e6f5706a
+https://chatgpt.com/s/t_6a8fa19ccb3c8191b3f3563a81d833ac
+https://chatgpt.com/s/t_6a8fa1a61c2c8191acd98bd934926761
+https://chatgpt.com/s/t_6a8fa1aeb6108191bdd7f5b67e8fdb14
+
+
 
